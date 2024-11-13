@@ -1,0 +1,33 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #555;
+  margin-top: 40px;
+}
+
+.video-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.video-item {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin: 10px 0;
+}
